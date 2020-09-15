@@ -1,5 +1,8 @@
 To install
+
+```console
 $ npm install
+```
 
 To run tests
 $ npm run test
