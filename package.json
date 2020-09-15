@@ -1,6 +1,6 @@
 {
   "name": "molnapps-partners",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Partners header",
   "main": "dist/partners.js",
   "scripts": {
@@ -13,8 +13,7 @@
   ],
   "author": "MolnApps",
   "license": "MIT",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.6",
@@ -22,6 +21,7 @@
     "babel-jest": "^26.0.1",
     "css-loader": "^4.3.0",
     "jest": "^26.4.2",
+    "mini-css-extract-plugin": "^0.11.2",
     "sass": "^1.26.10",
     "sass-loader": "^10.0.2",
     "style-loader": "^1.2.1",

@@ -1,0 +1,3 @@
+.Partners__header{font-family:"Roboto",sans-serif;font-weight:300;color:#fff;text-align:center;font-size:14px;line-height:18px}.Partners__header a{padding:12px 25px;display:flex;justify-content:center}.Partners__part{display:flex}.Partners__part span{flex-shrink:0}.Partners__header img{width:auto;height:16px;margin-top:1px;display:block;margin-left:8px;margin-right:8px}.Partners--hidden{display:none}.Partners__header strong{font-weight:500 !important}@media screen and (max-width: 600px){.Partners__header a{flex-flow:column}.Partners__part{justify-content:center}.Partners__header span{padding:6px 0px}.Partners__part span{padding:0px !important}}
+
+/*# sourceMappingURL=partners.css.map*/
