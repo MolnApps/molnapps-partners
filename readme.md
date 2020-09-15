@@ -9,7 +9,7 @@ To run tests
 npm run test
 ```
 
-To build
+To compile all assets
 ```console
 npm run build
 ```
