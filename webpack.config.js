@@ -1,12 +1,19 @@
 const path = require('path');
+const webpack = require("webpack");
 
 module.exports = {
-	entry: './src/index.js',
+	entry: {
+		"partners": "./src/index.js",
+	},
+	devtool: "source-map",
 	output: {
 		filename: 'partners.js',
 		path: path.resolve(__dirname, './dist/'),
 		library: 'Partners',
 		libraryTarget: 'var'
+	},
+	optimization: {
+		minimize: false
 	},
 	module: {
 	    rules: [
