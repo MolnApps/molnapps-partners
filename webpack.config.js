@@ -13,7 +13,7 @@ module.exports = {
 		libraryTarget: 'var'
 	},
 	optimization: {
-		minimize: false
+		minimize: true
 	},
 	module: {
 	    rules: [
