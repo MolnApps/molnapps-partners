@@ -1,3 +1,10 @@
+##Using in your project
+To install
+
+```console
+npm --save-dev
+```
+##Cloning the repo
 To install
 
 ```console
