@@ -1,10 +1,15 @@
-##Using in your project
+Hello
+======
+
+Using in your project
+------
 To install
 
 ```console
 npm --save-dev
 ```
-##Cloning the repo
+Cloning the repo
+------
 To install
 
 ```console
