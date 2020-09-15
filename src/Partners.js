@@ -18,6 +18,8 @@ class Partners {
 	}
 	
 	register (partner, position = '') {
+		console.log('register partner')
+
 		let shouldAttachAgain = false
 		
 		if (this.attached) {
