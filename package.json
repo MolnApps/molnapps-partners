@@ -1,6 +1,6 @@
 {
   "name": "molnapps-partners",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Partners header",
   "main": "dist/partners.js",
   "scripts": {
