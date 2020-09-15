@@ -1,0 +1,27 @@
+{
+  "name": "molnapps-partners",
+  "version": "1.0.0",
+  "description": "Partners header",
+  "main": "dist/partners.js",
+  "scripts": {
+    "build": "webpack --mode=production",
+    "test": "jest"
+  },
+  "author": "MolnApps",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "babel-jest": "^26.0.1",
+    "css-loader": "^4.3.0",
+    "jest": "^26.4.2",
+    "sass": "^1.26.10",
+    "sass-loader": "^10.0.2",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.11"
+  }
+}
