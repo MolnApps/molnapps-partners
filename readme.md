@@ -1,11 +1,15 @@
 To install
 
 ```console
-$ npm install
+npm install
 ```
 
 To run tests
-$ npm run test
+```console
+npm run test
+```
 
 To build
-$ npm run build
+```console
+npm run build
+```
