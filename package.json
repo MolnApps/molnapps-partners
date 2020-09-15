@@ -5,8 +5,12 @@
   "main": "dist/partners.js",
   "scripts": {
     "build": "webpack --mode=production",
-    "test": "jest"
+    "test": "jest",
+    "prepublish": "npm run build"
   },
+  "files": [
+    "dist"
+  ],
   "author": "MolnApps",
   "license": "MIT",
   "dependencies": {

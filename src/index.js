@@ -1,4 +1,4 @@
-import './Partners.scss';
+//import './Partners.scss';
 import Partners from './Partners.js'
 
 let myHeader = new Partners

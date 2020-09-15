@@ -7,7 +7,7 @@ Using in your project
 To install
 
 ```console
-npm --save-dev
+npm i molnapps-partners
 ```
 Cloning the repo
 ------
