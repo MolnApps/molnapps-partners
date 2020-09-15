@@ -1,5 +1,6 @@
 Hello
 ======
+A simple javascript component to add a header of partners to a website.
 
 Using in your project
 ------
